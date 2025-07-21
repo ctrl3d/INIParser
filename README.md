@@ -1,1 +1,1 @@
-https://github.com/ctrl3d/SOKit.git?path=Assets/INIParser
+https://github.com/ctrl3d/INIParser.git?path=Assets/INIParser
