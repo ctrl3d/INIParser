@@ -1,0 +1,22 @@
+{
+  "name": "work.ctrl3d.config.ini-parser",
+  "version": "0.1.0",
+  "displayName": "INIParser",
+  "description": "A simple INI file parser for Unity",
+  "unity": "2022.1",
+  "documentationUrl": "https://ctrl3d.github.io/INIParser",
+  "changelogUrl": "https://github.com/ctrl3d/INIParser/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ctrl3d/INIParser/blob/main/LICENSE",
+  "dependencies": {
+  },
+  "keywords": [
+    "unity",
+    "ini",
+    "parser"
+  ],
+  "author": {
+    "name": "Seungmin Lee",
+    "email": "ctrl3d@gmail.com",
+    "url": "https://ctrl3d.work"
+  }
+}
